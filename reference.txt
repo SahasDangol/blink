@@ -1,0 +1,11 @@
+Histogram of Oriented Gradients and Object Detection
+link : https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+
+Real-Time Eye Blink Detection using Facial Landmarks
+link : http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
+
+Extracting parts of the face using dlib, OpenCV, and Python
+link : https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+
+Convex Hull
+link : https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/
